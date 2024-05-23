@@ -1,0 +1,24 @@
+#footer{
+    height: 200px;
+
+    .footertop{
+
+       
+        display: flex;
+        justify-content: space-between;
+        nav{
+            display: flex;
+            gap: 3rem;
+            ul{
+                opacity: 0.8;
+            }
+        }
+    }
+    .ico{
+        margin-left: 13px;
+    }
+}
+.footerbottom{
+    margin-top: 80px;
+}
+
